@@ -8,13 +8,13 @@ How to use the code:
 
 2. download the data from Helsinki Region Travel Time Matrix into the folder 'data/TravelTimes': (link: http://www.helsinki.fi/science/accessibility/data/helsinki-region-travel-time-matrix/2018/HelsinkiRegion_TravelTimeMatrix2018.zip
 
->$ wget http://www.helsinki.fi/science/accessibility/data/helsinki-region-travel-time-matrix/2018/HelsinkiRegion_TravelTimeMatrix2018.zip 
->$ unzip HelsinkiRegion_TravelTimeMatrix.zip
+  >$ wget http://www.helsinki.fi/science/accessibility/data/helsinki-region-travel-time-matrix/2018/HelsinkiRegion_TravelTimeMatrix2018.zip<br /> 
+  >$ unzip HelsinkiRegion_TravelTimeMatrix.zip
 
 3. Download the MetropAccess_YKR_grid into the folder 'data/MetropAccess_YKR_grid' folder: (link: http://www.helsinki.fi/science/accessibility/data/MetropAccess-matka-aikamatriisi/MetropAccess_YKR_grid.zip)
 
->$ wget http://www.helsinki.fi/science/accessibility/data/MetropAccess-matka-aikamatriisi/MetropAccess_YKR_grid.zip)
->$ unzip MetropAccess_YKR_grid.zip
+  >$ wget http://www.helsinki.fi/science/accessibility/data/MetropAccess-matka-aikamatriisi/MetropAccess_YKR_grid.zip)<br />
+  >$ unzip MetropAccess_YKR_grid.zip
 
 4. Open the Final-assignment.ipynb-file
 
