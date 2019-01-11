@@ -1,5 +1,5 @@
 # final-assignment
-In this final assignment i have tried to solve the AcceccViz exercise. I did not manange all parts of it. For each part of the code I have written markdown cells with explanations of what the code is supposed to do, and what did not not work to well. At some parts I also have some code in the markdown cells, which did not work in the code script. This is to show what I have been thinking.
+In this final assignment i have tried to solve the AccessViz exercise. I did not manange all parts of it. For each part of the code I have written markdown cells with explanations of what the code is supposed to do, and what did not not work to well. At some parts I also have some code in the markdown cells, which did not work in the code script. This is to show what I have been thinking.
 
 The code, notebooks and documentatation is created in a private repository. I got tipsed that the easiest way to solve this is to post the link to the repsoitory is here. The link to the repsoitory is: https://github.com/sagmoen/final-assignment-sagmoen.
 
